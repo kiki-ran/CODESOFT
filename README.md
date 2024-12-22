@@ -1,2 +1,4 @@
 # CODESOFT
-Task for virtual internship in Codesoft in python programming
+Tasks for virtual internship in Codesoft in python programming 
+<br>
+Done by Keerthana Ranganathan
