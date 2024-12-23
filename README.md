@@ -1,4 +1,7 @@
-# CODESOFT
-Tasks for virtual internship in Codesoft in python programming 
+Hello!
 <br>
-Done by Keerthana Ranganathan
+This repository holds projects for my virtual internship in Codesoft.
+<br>
+The tasks include To do list using django webframe,a simple calculator,password generator and rock paper scissor game.
+<br>
+i thank codesoft forr providing this wonderful opportunity to showcase my skills in python language.
